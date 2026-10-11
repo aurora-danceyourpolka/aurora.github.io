@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>🏄‍♀️</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #eaf6ff;
+    }
+    .surf {
+      font-size: 160px;
+    }
+  </style>
+</head>
+<body>
+  <div class="surf">🏄‍♀️</div>
+</body>
+</html>
